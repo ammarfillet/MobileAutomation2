@@ -1,0 +1,1 @@
+[{"uid":"939a9773a7cd282a","name":"should open API Demos and fill name & password","time":{"start":1762437664332,"stop":1762437680845,"duration":16513},"status":"passed","severity":"normal"},{"uid":"6f6024ab661aa31b","name":"should fill name and password fields","time":{"start":1762434254732,"stop":1762434270783,"duration":16051},"status":"broken","severity":"normal"}]
